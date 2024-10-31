@@ -1,0 +1,112 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*TIULO PRINCIPAL*/
+.titulo-principal{
+    background-color: #fff;
+    color: #3498db;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.subtitulo-principal{
+    background-color: #fff;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/*SOBRE MI*/
+.aboutme{
+    background-color: #fff;
+    color: #154360;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*CONTACTO*/
+.contacto-titulo{
+    background-color: #fff;
+    color: #154360;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link-linkedin{
+    text-decoration: none;
+    color: #283747;
+
+}
+
+/*CONOCIMIENTOS*/
+.conocimientos-titulo{
+    background-color: #fff;
+    color: #154360; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*OTROS CONOCIMIENTOS*/
+.otros-conocimientos-titulo{
+    background-color: #fff;
+    color: #154360;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.idiomas-titulo{ background-color: #fff;
+    color: #154360;
+    font-family: Arial, Helvetica, sans-serif;}
+
+    .microsoft-titulo{
+        background-color: #fff;
+    color: #154360;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+/*OBJETIVOS PROFESIONALES*/
+.objetivos-titulo{
+    background-color: #fff;
+    color: #154360;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #000000;
+}
+header {
+    background-color: #fff;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+    h2 {
+    color: #444;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 10px 0;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #000000;
+    color: #fff;
+    position: static;
+    width: 100%;
+    bottom: 0;
+    
+}
